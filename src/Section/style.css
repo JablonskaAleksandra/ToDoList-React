@@ -22,14 +22,13 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     align-items: center;
+
 }
 .section__content {
     padding: 10px;
     background-color: #ffffff;
     border-width: 0px;
-    border-bottom: 2px;
-    border-style: solid;
-    border-color: #e6e6e6;
+
 }
 
 @media (max-width: 768px) {
