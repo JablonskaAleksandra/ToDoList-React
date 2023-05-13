@@ -1,0 +1,43 @@
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.buttons__button {
+    border: none;
+    background-color: transparent;
+    color: #008080;
+    transition: color 0.3s;
+    cursor: pointer;
+    margin: 0 0 0 20px;
+}
+
+.buttons__button:active {
+    border: #000000 solid 2px;  
+}
+
+.buttons__button:hover {
+    color: #00b3b3;
+   
+}
+
+.buttons__button:disabled {
+    color: #cfcfcf;
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .buttons__buttons {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    
+}
+    .buttons__button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+}
