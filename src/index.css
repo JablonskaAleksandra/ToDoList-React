@@ -8,23 +8,17 @@ html {
   box-sizing: inherit;
 }
 
-
-
 h1 {
   font-size: 30px;
   font-weight: 900;
 }
 
-/* body {
+body {
   background-color: #e6e6e6;
   font-family: 'Lato', sans-serif;
   word-break: break-word;
-  justify-content: center;
-} */
+}
 
-/* main {
-  margin: 50px 20px 20px 20px;
-} */
   
   
 

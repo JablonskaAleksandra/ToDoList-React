@@ -28,16 +28,14 @@
 }
 
 @media (max-width: 768px) {
-    .buttons__buttons {
-    margin-top: 15px;
-    margin-bottom: 15px;
-    display: flex;
-    gap: 15px;
-    flex-direction: column;
+    
+.buttons {
+        display: flex;
+        flex-direction: column;
     
 }
-    .buttons__button {
-    padding-top: 5px;
-    padding-bottom: 5px;
+
+.buttons__button {
+    padding: 10px;
 }
 }
