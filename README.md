@@ -1,3 +1,69 @@
+# About
+I am pleased to present my earlier project, in the same design, but made with different technology. The previous task list [(here)](https://github.com/JablonskaAleksandra/ToDoList), was created using raw Java Script so-called Vanilla Java Script. Vanilla JavaScript refers to using plain Javascript without any additional libraries or frameworks. The goal in the course was to master this programming language to the extent that simple functions can be programmed to make the application do its job and be more dynamic.
+
+
+## 🌟 Demo 
+
+If you would like to visit my app click on the link below:
+
+https://jablonskaaleksandra.github.io/ToDoList-React/
+
+## 👁 Website preview
+
+![GIF of my app](https://raw.githubusercontent.com/JablonskaAleksandra/ToDoList/main/media/todolist.gif)
+
+**Main features**:
+
+- Ability to add custom task content
+- Ability to delete or change the status of a task to completed or not completed
+- No ability to edit added tasks. Functionality as well as the appearance of the application itself is a result of the exact instructions according to which it was to be created by me and the criteria by which it will be evaluated. 
+&nbsp;
+ 
+## 💡 Technologies
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript - ES6</li>
+<li>React.js 18.2.0</li>
+<li>Alternative CSS box model</li>
+<li>Normalize.css</li>
+<li>CamelCase naming convention</li>
+<li>BEM naming convention</li>
+<li>Markdown</li>
+</ul>
+
+&nbsp;
+ 
+## 🔗 See also
+
+Are you interested in the course of my study ?
+Come and see my other project: 
+
+👉🏻[ homepage ](https://jablonskaaleksandra.github.io/homepage/) 
+
+👉🏻 [currency converter](https://jablonskaaleksandra.github.io/currency-converter/)
+
+&nbsp;
+
+## ✅ Project Status
+
+
+Project is: finished
+
+
+### 🙋‍♂️ Feel free to contact me
+If you want to get in touch with me or just make friends - feel free to contact me! 
+Find me on:
+
+[Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/_nemeyeth_/) 
+
+
+&nbsp;
+
+# 👏 Special thanks
+Thanks to my Mentors from (https://youcode.pl/) – for providing me with this task and for code review.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +105,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
