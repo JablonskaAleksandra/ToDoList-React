@@ -1,5 +1,5 @@
 # About
-I am pleased to present my earlier project, in the same design, but made with different technology. The previous task list [(here)](https://github.com/JablonskaAleksandra/ToDoList), was created using raw Java Script so-called Vanilla Java Script. Vanilla JavaScript refers to using plain Javascript without any additional libraries or frameworks. The goal in the course was to master this programming language to the extent that simple functions can be programmed to make the application do its job and be more dynamic.
+I am pleased to present my earlier project, in the same design, but made with different technology. The previous task list ([here](https://github.com/JablonskaAleksandra/ToDoList)), was created using raw Java Script so-called Vanilla Java Script. Vanilla JavaScript refers to using plain Javascript without any additional libraries or frameworks. The goal in the course was to master this programming language to the extent that simple functions can be programmed to make the application do its job and be more dynamic.
 
 
 ## 🌟 Demo 
