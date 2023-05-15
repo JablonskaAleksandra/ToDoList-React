@@ -14,12 +14,12 @@
 }
 
 .buttons__button:active {
-    border: #000000 solid 2px;  
+    border: #000000 solid 2px;
 }
 
 .buttons__button:hover {
     color: #00b3b3;
-   
+
 }
 
 .buttons__button:disabled {
@@ -28,14 +28,14 @@
 }
 
 @media (max-width: 768px) {
-    
-.buttons {
+
+    .buttons {
         display: flex;
         flex-direction: column;
-    
-}
 
-.buttons__button {
-    padding: 10px;
-}
+    }
+
+    .buttons__button {
+        padding: 10px;
+    }
 }

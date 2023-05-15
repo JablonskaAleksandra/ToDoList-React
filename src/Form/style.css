@@ -13,7 +13,7 @@
 .form__submitButton {
     font-size: 18px;
     padding: 10px;
-    background-color:#008080;
+    background-color: #008080;
     color: #ffffff;
     border: none;
     cursor: pointer;
@@ -25,20 +25,19 @@
     transform: scale(1.1);
 }
 
-
 @media (max-width: 768px) {
 
     .form {
         margin: 10px;
         display: flex;
-        flex-wrap: wrap;  
+        flex-wrap: wrap;
     }
-    
+
     .form__input {
         margin: 0 auto;
-        min-width: 100%;  
+        min-width: 100%;
     }
-    
+
     .form__submitButton {
         margin: 0 auto;
         margin-top: 10px;
@@ -50,12 +49,3 @@
         transform: scaleX(1.02) scaleY(1.02);
     }
 }
-
-  
-
-  
-  
-  
-
-
-

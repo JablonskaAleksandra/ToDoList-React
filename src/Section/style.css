@@ -16,14 +16,10 @@
     border-bottom: 2px;
     border-style: solid;
     border-color: #e6e6e6;
-}
-
-.section__header--modifier {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    align-items: center;
-
 }
+
 .section__content {
     padding: 10px;
     background-color: #ffffff;
@@ -32,8 +28,8 @@
 }
 
 @media (max-width: 768px) {
-    .section__header--modifier {
-    display: grid;
-    grid-template-columns: auto;
-}
+    .section__header {
+        display: grid;
+        grid-template-columns: auto;
+    }
 }
