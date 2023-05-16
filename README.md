@@ -56,7 +56,7 @@ Project is: finished
 If you want to get in touch with me or just make friends - feel free to contact me! 
 Find me on:
 
-[Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/_nemeyeth_/) 
+[Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/nemezis.33/) 
 
 
 &nbsp;
