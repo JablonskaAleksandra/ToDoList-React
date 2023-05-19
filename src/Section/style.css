@@ -1,35 +1,34 @@
 .section {
-    margin: 10px 0px;
-    box-shadow: 0px 0px 5px 0px #b3b3b3;
+  margin: 10px 0px;
+  box-shadow: 0px 0px 5px 0px #b3b3b3;
 }
 
 .section__title {
-    font-size: 20px;
-    font-weight: 900;
-    margin-left: 10px;
+  font-size: 20px;
+  font-weight: 900;
+  margin-left: 10px;
 }
 
 .section__header {
-    padding: 10px;
-    background-color: #ffffff;
-    border-width: 0px;
-    border-bottom-width: 2px;
-    border-style: solid;
-    border-color: #e6e6e6;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
+  padding: 10px;
+  background-color: #ffffff;
+  border-width: 0px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
 }
 
 .section__content {
-    padding: 10px;
-    background-color: #ffffff;
-    border-width: 0px;
-
+  padding: 10px;
+  background-color: #ffffff;
+  border-width: 0px;
 }
 
 @media (max-width: 768px) {
-    .section__header {
-        display: grid;
-        grid-template-columns: auto;
-    }
+  .section__header {
+    display: grid;
+    grid-template-columns: auto;
+  }
 }
