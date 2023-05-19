@@ -4,7 +4,7 @@ const Form = () => (
   <form className="form">
     <input
       className="form__input"
-      autofocus
+      autoFocus
       required
       placeholder="Co jest do zrobienia?"
     />
