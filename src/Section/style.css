@@ -12,8 +12,7 @@
 .section__header {
     padding: 10px;
     background-color: #ffffff;
-    border-width: 0px;
-    border-bottom: 2px;
+    border-bottom-width: 2px;
     border-style: solid;
     border-color: #e6e6e6;
     display: grid;
