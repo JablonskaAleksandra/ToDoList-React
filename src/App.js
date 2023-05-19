@@ -13,18 +13,31 @@ const tasks = [
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
+  const [tasks, setTasks] = useState();
 
   const toggleHideDone = () => {
     setHideDone((hideDone) => !hideDone);
   };
 
+  const removeTask = (id) => {
+    setTasks(tasks => tasks.filter(task => task.id !== id));
+
+  };
+
   return (
     <Container>
       <Header title="Lista zadań" />
-      <Section title="Dodaj nowe zadanie" content={<Form />} />
+      <Section 
+      title="Dodaj nowe zadanie" 
+      body={<Form />} 
+      />
+
       <Section
         title="Lista zadań"
-        content={<Tasks tasks={tasks} hideDone={hideDone} />}
+        body={
+        <Tasks tasks={tasks} 
+        hideDone={hideDone} 
+        removeTask={removeTask} />}
         extraHeadercontent={
           <Buttons
             tasks={tasks}
