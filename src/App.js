@@ -13,7 +13,7 @@ const tasks = [
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
-  const [tasks, setTasks] = useState();
+  const [tasks, setTasks] = useState([]);
 
   const toggleHideDone = () => {
     setHideDone((hideDone) => !hideDone);
