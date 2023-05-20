@@ -45,11 +45,11 @@ function App() {
   return (
     <Container>
       <Header title="Lista zadań" />
-      <Section title="Dodaj nowe zadanie" body={<Form />} />
+      <Section title="Dodaj nowe zadanie" content={<Form />} />
 
       <Section
         title="Lista zadań"
-        body={
+        content={
           <Tasks
             tasks={tasks}
             hideDone={hideDone}
