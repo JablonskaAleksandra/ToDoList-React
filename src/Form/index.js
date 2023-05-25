@@ -11,7 +11,7 @@ const Form = ({ addNewTask }) => {
   };
 
   return (
-    <form className="form" onSumbit={onFormSubmit}>
+    <form className="form" onSubmit={onFormSubmit}>
       <input
         value={newTaskContent}
         className="form__input"
